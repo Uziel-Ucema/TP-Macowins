@@ -1,0 +1,15 @@
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\bin\Debug\Macowins de Uziel Luna.exe.config
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\bin\Debug\Macowins de Uziel Luna.exe
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\bin\Debug\Macowins de Uziel Luna.pdb
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\bin\Debug\Dom.dll
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\bin\Debug\Dom.pdb
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.csprojAssemblyReference.cache
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins_de_Uziel_Luna.Properties.Resources.resources
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.csproj.GenerateResource.cache
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.csproj.CoreCompileInputs.cache
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.csproj.CopyComplete
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.exe
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.pdb
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins_de_Uziel_Luna.FormPrincipal.resources
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Interop.EnvDTE.dll
+C:\Users\Uziel\source\repos\Macowins de Uziel Luna\Macowins de Uziel Luna\obj\Debug\Macowins de Uziel Luna.csproj.ResolveComReference.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QxmTltHBSgZ4jLcvdH14CAyc5015iNR+C2d21NJ8m3afoPwDGoyTorhvmop3yNu4OPj2AJiej7MiVLbf8fTPWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Uziel\\source\\repos\\Macowins de Uziel Luna\\Dom\\Dom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uziel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Uziel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
